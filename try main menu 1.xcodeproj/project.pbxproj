@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		071DDD1723D35FBC004138B9 /* showBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071DDD1623D35FBC004138B9 /* showBrain.swift */; };
 		075AC88D23D2FB9B004A0805 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075AC88C23D2FB9B004A0805 /* AppDelegate.swift */; };
 		075AC88F23D2FB9B004A0805 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075AC88E23D2FB9B004A0805 /* SceneDelegate.swift */; };
 		075AC89123D2FB9B004A0805 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075AC89023D2FB9B004A0805 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		071DDD1623D35FBC004138B9 /* showBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = showBrain.swift; sourceTree = "<group>"; };
 		075AC88923D2FB9B004A0805 /* try main menu 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "try main menu 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		075AC88C23D2FB9B004A0805 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		075AC88E23D2FB9B004A0805 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				075AC88E23D2FB9B004A0805 /* SceneDelegate.swift */,
 				075AC89023D2FB9B004A0805 /* ViewController.swift */,
 				075AC89223D2FB9B004A0805 /* Main.storyboard */,
+				071DDD1623D35FBC004138B9 /* showBrain.swift */,
 				075AC89523D2FB9D004A0805 /* Assets.xcassets */,
 				075AC89723D2FB9D004A0805 /* LaunchScreen.storyboard */,
 				075AC89A23D2FB9D004A0805 /* Info.plist */,
@@ -262,6 +265,7 @@
 				075AC89123D2FB9B004A0805 /* ViewController.swift in Sources */,
 				075AC88D23D2FB9B004A0805 /* AppDelegate.swift in Sources */,
 				075AC88F23D2FB9B004A0805 /* SceneDelegate.swift in Sources */,
+				071DDD1723D35FBC004138B9 /* showBrain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
